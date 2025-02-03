@@ -1,4 +1,4 @@
-<h1 align=center> Futuristic-Sketch</h1>
+<h1 align=center> Futuristic Sketch</h1>
 
 ## Tech Stack
 Created using opensource p5.js. 
